@@ -25,13 +25,6 @@ Whether you're a student, developer, or algorithm enthusiast, this project helps
 
 ---
 
-##  Demo
-
-![Maze Race Demo](link-to-your-demo.gif)  
-Replace with your own demo image or GIF
-
----
-
 ##  How to Run
 
 1. *Clone the repo*  
