@@ -29,4 +29,5 @@ Whether you're a student, developer, or algorithm enthusiast, this project helps
 
 1. *Clone the repo*  
    ```bash
-   adrija-ani
+  [git clone https://github.com/your-username/algorithm-maze-race.git
+   cd algorithm-maze-race](https://github.com/adrija-ani/algorithm-maze-race.git)
