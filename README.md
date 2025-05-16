@@ -25,8 +25,9 @@ Whether you're a student, developer, or algorithm enthusiast, this project helps
 
 ---
 
-##  How to Run
+## 🛠 How to Run
 
 1. *Clone the repo*  
    ```bash
-  (https://github.com/adrija-ani/algorithm-maze-race.git)
+   git clone https://github.com/adrija_ani/algorithm-maze-race.git
+   cd algorithm-maze-race
