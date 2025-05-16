@@ -1,12 +1,12 @@
 #  Algorithm Maze Race 🏁  
 
-A fun and educational visualization where classic pathfinding algorithms — *A\, *Dijkstra’s, **BFS, and **DFS* — race through a randomly generated maze to reach a target block.
+A fun and educational visualization where classic pathfinding algorithms — A*, Dijkstra’s, BFS and DFS — race through a randomly generated maze to reach a target block.
 
 ---
 
 ##  Overview
 
-This project puts the theory of pathfinding algorithms into motion by letting them *compete* in real time. The maze resets for each race, giving you a clear visual of how each algorithm approaches the same problem.
+This project puts the theory of pathfinding algorithms into motion by letting them compete in real time. The maze resets for each race, giving you a clear visual of how each algorithm approaches the same problem.
 
 Whether you're a student, developer, or algorithm enthusiast, this project helps you understand:
 
